@@ -1,7 +1,7 @@
 ---
 title: "git_01"
 author: "Sandra Iovino"
-date: "Fall semester"
+date: "Summer semester"
 output: html_document
 ---
 
