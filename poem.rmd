@@ -16,16 +16,6 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-The Walrus and the Carpenter  
-      Were walking close at hand;  
-They wept like anything to see  
-      Such quantities of sand:  
-If this were only cleared away,'  
-      They said, it would be grand!'  
-
-If seven maids with seven mops  
-
-
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
