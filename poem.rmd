@@ -16,6 +16,15 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+  Swept it for half a year,  
+Do you suppose,' the Walrus said,  
+      That they could get it clear?'  
+I doubt it,' said the Carpenter,  
+      And shed a bitter tear.  
+
+O Oysters, come and walk with us!'  
+
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
