@@ -29,56 +29,8 @@ The moon was shining sulkily,
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
-Whose woods these are I think I know.  
-His house is in the village though;     
-He will not see me stopping here     
-To watch his woods fill up with snow.     
-
-My little horse must think it queer     
-To stop without a farmhouse near  
-
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
-"The sun was shining on the sea,  
-      Shining with all his might:  
-He did his very best to make  
-      The billows smooth and bright —  
-And this was odd, because it was  
-      The middle of the night.  
-
-The moon was shining sulkily,  
-      Because she thought the sun  
-Had got no business to be there  
-      After the day was done —  
-"It's very rude of him," she said,  
-      "To come and spoil the fun."  
-      
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
-
-In the realm where dreams are woven tight,  
-And stars dance softly through the night,  
-There lies a land of whispered tales,  
-Where every heartbeat softly sails.  
-
-In fields of gold and skies of blue,  
-Where time's embrace feels ever true,  
-A melody of hope resounds,  
-As gentle breezes kiss the grounds.  
-
-Oh, how the rivers softly flow,  
-With secrets only they can know,  
-And mountains stand, majestic, tall,  
-Guardians of the land's sweet call.  
-
-In every leaf, a story blooms,  
-With fragrant scents and verdant plumes,  
-And as the sun begins to set,  
-The world in hues of fire is met.  
-
-So let us wander hand in hand,  
-Through this enchanted wonderland,  
-For in this place, our souls are free,  
-To dance with joy, eternally.  
-
